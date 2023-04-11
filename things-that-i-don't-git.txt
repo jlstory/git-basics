@@ -1,3 +1,5 @@
 1. The terminal in general
 2. Why I can't authenticate
 3. Why I can't authenticate when I'm following step by step, and have verified my passworkd via keychain
+4. WHy I can't authenticate, but can stil make changes to the repository??
+5. Why this is giving me such trouble, I've used Github in the past??
